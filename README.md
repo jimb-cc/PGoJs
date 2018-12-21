@@ -9,7 +9,7 @@ PGoJs is a binding/port from p5Js using gopherJs, the idea is create sketchs in 
 Get with:
 
 ```
- go get -u -v github.com/bregydoc/PGoJs
+ go get -u -v github.com/jimb-cc/PGoJs
 ```
 
 
